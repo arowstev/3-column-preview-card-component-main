@@ -62,6 +62,7 @@ html {
    background-color: hsl(0, 0%, 95%) ;
    width: 120px;
    height: 30px;
+   border: hsl(0, 0%, 95%);
 }
 
 .learmore{
@@ -69,6 +70,12 @@ html {
    color: hsl(31, 77%, 52%);
    padding-top: 2px;
    font-family: 'Hind Siliguri', sans-serif;
+   cursor: pointer;
+   width: 120px;
+   height: 30px;
+   border-radius: 20px 20px 20px 20px;
+   border: hsl(0, 0%, 95%);
+   
 }
 
 .mainboxtwo{
@@ -121,6 +128,7 @@ html {
    color: hsl(184, 100%, 22%);
    padding-top: 2px;
    font-family: 'Hind Siliguri', sans-serif;
+   cursor: pointer;
 }
 
 .mainboxthree{
@@ -167,6 +175,29 @@ html {
    background-color: hsl(0, 0%, 95%) ;
    width: 120px;
    height: 30px;
+   border: hsl(0, 0%, 95%);
+}
+
+.learmoreluxury{
+   padding-left: 20px;
+   color: hsl(31, 77%, 52%);
+   padding-top: 2px;
+   font-family: 'Hind Siliguri', sans-serif;
+   cursor: pointer;
+   width: 120px;
+   height: 30px;
+   border-radius: 20px 20px 20px 20px;
+   border: hsl(0, 0%, 95%);  
+}
+
+/*
+.learnluxury{
+   margin-top: 50px;
+   margin-left: 20px;
+   border-radius: 20px 20px 20px 20px;
+   background-color: hsl(0, 0%, 95%) ;
+   width: 120px;
+   height: 30px;
 }
 
 .learmoreluxury {
@@ -174,7 +205,8 @@ html {
    color: hsl(179, 100%, 13%);
    padding-top: 2px;
    font-family: 'Hind Siliguri', sans-serif;
-}
+   cursor: pointer;
+} */
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
